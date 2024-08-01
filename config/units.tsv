@@ -1,7 +1,10 @@
 sample_name	unit_name	fq1	fq2	sra	adapters	strandedness
-A	lane1	A.1.fq.gz	A.2.fq.gz		
-A	lane2	A2.1.fq.gz	A2.2.fq.gz		
-B	lane1	B.1.fq.gz	B.2.fq.gz		
-C	lane1	C.1.fq.gz	C.2.fq.gz		
-D	lane1	D.1.fq.gz	D.2.fq.gz		
-E	lane1	E.1.fq.gz	E.2.fq.gz		
+Sample2	lane1	/home/UTHSCSA/alers/Dene/Female_raw_fq/Sample2_1.fq.gz, 	/home/UTHSCSA/alers/Dene/Female_raw_fq/Sample2_2.fq.gz, 			
+Sample4	lane2	/home/UTHSCSA/alers/Dene/Female_raw_fq/Sample4_1.fq.gz, 	/home/UTHSCSA/alers/Dene/Female_raw_fq/Sample4_2.fq.gz, 			
+Sample6	lane1	/home/UTHSCSA/alers/Dene/Female_raw_fq/Sample6_1.fq.gz, 	/home/UTHSCSA/alers/Dene/Female_raw_fq/Sample6_2.fq.gz, 			
+Sample8	lane1	/home/UTHSCSA/alers/Dene/Female_raw_fq/Sample8_1.fq.gz, 	/home/UTHSCSA/alers/Dene/Female_raw_fq/Sample8_2.fq.gz, 			
+Sample10	lane1	/home/UTHSCSA/alers/Dene/Female_raw_fq/Sample10_1.fq.gz, 	/home/UTHSCSA/alers/Dene/Female_raw_fq/Sample10_2.fq.gz, 			
+Sample12	lane1	/home/UTHSCSA/alers/Dene/Female_raw_fq/Sample12_1.fq.gz, 	/home/UTHSCSA/alers/Dene/Female_raw_fq/Sample12_2.fq.gz, 			
+Sample13	lane1	/home/UTHSCSA/alers/Dene/Female_raw_fq/Sample13_1.fq.gz, 	/home/UTHSCSA/alers/Dene/Female_raw_fq/Sample13_2.fq.gz, 			
+Sample15	lane1	/home/UTHSCSA/alers/Dene/Female_raw_fq/Sample15_1.fq.gz, 	/home/UTHSCSA/alers/Dene/Female_raw_fq/Sample15_2.fq.gz, 			
+Sample17	lane1	/home/UTHSCSA/alers/Dene/Female_raw_fq/Sample17_1.fq.gz, 	/home/UTHSCSA/alers/Dene/Female_raw_fq/Sample17_2.fq.gz, 			
