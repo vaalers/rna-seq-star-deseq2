@@ -2,7 +2,7 @@ rule count_matrix:
     input:
         expand(
             "results/star/{unit.sample_name}_{unit.unit_name}/ReadsPerGene.out.tab",
-            unit=units.itertuples(),
+            unit=units.itertuples()
         ),
     output:
         "results/counts/all.tsv",
